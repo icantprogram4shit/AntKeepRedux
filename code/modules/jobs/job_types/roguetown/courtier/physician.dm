@@ -9,11 +9,9 @@
 	allowed_races = ALL_RACES_TYPES
 	allowed_sexes = list(MALE, FEMALE)
 	display_order = JDO_PHYSICIAN
-	tutorial = "You were a child born into good wealth--but poor health. \
-		Perhaps in another life, you would have turned out to be a powerful mage, wise archivist or a shrewd steward, \
-		but leprosy took away your younger years. \
-		Out of desperation, you followed the ways of Pestra and managed to be cured. \
-		Now you serve in the Duke's court ensuring the good health of those inhabiting the keep."
+	tutorial = "Perhaps you were a child born into good wealth, good enough to get you into one of the only existing schools of medicine. \
+		Or perhaps you were particularly talented, despite lack of education, and picked up by the duke. \
+		No matter your origin, you now serve in the Duke's court, ensuring the good health of those inhabiting the keep."
 	outfit = /datum/outfit/job/roguetown/physician
 	whitelist_req = TRUE
 
