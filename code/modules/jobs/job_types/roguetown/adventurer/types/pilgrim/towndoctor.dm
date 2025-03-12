@@ -1,6 +1,6 @@
 /datum/advclass/towndoctor
 	name = "Barber Surgeon"
-	tutorial = "You are the closest thing to a doctor that the townsfolk here will ever meet. Wielding crude tools and accumulated knowledge, you have probably cut into as many people as the average Knight."
+	tutorial = "You are the closest thing to an affordable doctor that the townsfolk here will ever meet. Wielding crude tools and accumulated knowledge, you have probably cut into as many people as the average Knight. How you envy the physician of the court."
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_races = ALL_RACES_TYPES
 	outfit = /datum/outfit/job/roguetown/adventurer/doctor
