@@ -8,7 +8,7 @@
 	category_tags = list(CTAG_ADVENTURER, CTAG_COURTAGENT)
 	classes = list("Treasure Hunter" = "You are a treasure hunter trained in hunting for valuables. Discern what is treasure or not, your fortune could be hidden anywhere.",
 					"Thief" = "You are a scoundrel and a thief. A master in getting into places you shouldn't be and taking things that aren't rightfully yours.",
-					"Bard" = "You make your fortune in brothels, flop houses, and taverns – gaining fame for your songs and legends. If there is any truth to them, that is.",
+					"Troubadour" = "Perhaps you make your fortune in brothels, flop houses, and taverns – or perhaps your poems and songs are held in higher esteem by the aristocracy. Maybe one day you'll be renowned the world over. Or maybe you'll be sliced apart on your way to somewhere new.",
 					"Swashbuckler" = "You are a daring rogue of the seas! Swashbucklers wield agile swordplay and acrobatic prowess - fighting dirty to outmaneuver foes with flair.")
 
 /datum/outfit/job/roguetown/adventurer/rogue/pre_equip(mob/living/carbon/human/H)
