@@ -1,7 +1,7 @@
 //challenge class, spawns with no items at all
 /datum/advclass/nudist
 	name = "Nudist"
-	tutorial = "They say that the most devout of Dendor forgo clothing in order to weather their body to the natural elements. You happen to be one of them!"
+	tutorial = "They say that there are strange men in the woodlands whom forego clothing in order to weather their body to the natural elements. You happen to be one of them!"
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_races = ALL_RACES_TYPES
 	outfit = /datum/outfit/job/roguetown/adventurer/nudist
