@@ -1,7 +1,7 @@
 /datum/advclass/farmermaster
 	name = "Master Farmer"
-	tutorial = "A master farmer, a story simlar to the likes of Goliath and David, \
-	You, a simple peasent, through sheer determination have conquered nature \
+	tutorial = "A master farmer, \
+	You, a simple peasant, through sheer determination have conquered nature \
 	and made it bow before your green thumb."
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_races = ALL_RACES_TYPES
